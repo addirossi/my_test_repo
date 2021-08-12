@@ -1,7 +1,7 @@
 class User:
     def __init__(self, name):
-        pass
-    
-    
+        self.name = name
+
+
 class UserProfile:
     pass
